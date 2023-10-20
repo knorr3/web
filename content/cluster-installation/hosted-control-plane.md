@@ -36,8 +36,7 @@ kubevirt \
   --control-plane-availability-policy HighlyAvailable \
   --additional-trust-bundle $TRUSTED_BUNDLE \
   --auto-repair \
-  --release-image=quay.io/openshift-release-dev/ocp-release:4.12.22-x86_64
-
+  --release-image=quay.io/openshift-release-dev/ocp-release:4.14.0-rc.6-x86_64
   --render
   # Optional - add --render to show yaml
 
