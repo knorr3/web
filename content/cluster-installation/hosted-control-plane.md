@@ -2,7 +2,7 @@
 title: Hosted Control Plane
 linktitle: Hosted Control Plane
 description: Hosted Control Plane aka HyperShift
-tags: HostedControlPlane, hcp, hypershift
+tags: HostedControlPlane,hcp,hypershift
 ---
 
 # Hosted Control Plane
