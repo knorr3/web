@@ -2,7 +2,7 @@
 title: Hosted Control Plane
 linktitle: Hosted Control Plane
 description: Hosted Control Plane aka HyperShift
-tags: HostedControlPlane,hcp,hypershift
+tags: ['HostedControlPlane','hcp','hypershift']
 ---
 
 # Hosted Control Plane
@@ -36,7 +36,7 @@ kubevirt \
   --control-plane-availability-policy HighlyAvailable \
   --additional-trust-bundle $TRUSTED_BUNDLE \
   --auto-repair \
-  --release-image=quay.io/openshift-release-dev/ocp-release:4.14.0-rc.6-x86_64
+  --release-image=quay.io/openshift-release-dev/ocp-release:4.13.0-x86_64
   --render
   # Optional - add --render to show yaml
 
